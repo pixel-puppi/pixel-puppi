@@ -1,1 +1,1 @@
-<img align="center" src="https://github.com/pixel-puppi/pixel-puppi/blob/main/Untitled33_20260820230102.png?raw=true" alt="Untitled33_20260820230102.png"/> 
+<img src="https://github.com/pixel-puppi/pixel-puppi/blob/main/tumblr_11a8cf5618626a5afe89125a64e1101c_91c1e32d_2048.png?raw=true" alt="tumblr_11a8cf5618626a5afe89125a64e1101c_91c1e32d_2048.png"/>
